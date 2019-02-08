@@ -1,0 +1,22 @@
+{
+    "version": "1.0.5",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/devopyio/yamlfmt/releases/download/v1.0.5/yamlfmt_1.0.5_Windows_i386.tar.gz",
+            "bin": [
+                "yamlfmt.exe"
+            ],
+            "hash": "b7f4c5a8c5a1115bae9a2214778cbe242d8fee7b40d8281734f445a3216f7693"
+        },
+        "64bit": {
+            "url": "https://github.com/devopyio/yamlfmt/releases/download/v1.0.5/yamlfmt_1.0.5_Windows_x86_64.tar.gz",
+            "bin": [
+                "yamlfmt.exe"
+            ],
+            "hash": "ac0dca70e0a503a18e2151f3a66bfea864661a441822908fb3722a28b164cf2f"
+        }
+    },
+    "homepage": "https://devopy.io/",
+    "license": "Apache-2.0",
+    "description": "Formats yaml files"
+}
